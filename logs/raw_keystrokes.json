@@ -1,0 +1,857 @@
+[
+    {
+        "key": "s",
+        "dwell_time": 0.1875,
+        "flight_time": 0
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.144,
+        "flight_time": -0.0625
+    },
+    {
+        "key": "f",
+        "dwell_time": 0.1647,
+        "flight_time": -0.0273
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1472,
+        "flight_time": -0.0491
+    },
+    {
+        "key": "r",
+        "dwell_time": 0.1715,
+        "flight_time": -0.0333
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1372,
+        "flight_time": -0.0332
+    },
+    {
+        "key": "g",
+        "dwell_time": 0.1604,
+        "flight_time": 0.0152
+    },
+    {
+        "key": "u",
+        "dwell_time": 0.1336,
+        "flight_time": 0.0096
+    },
+    {
+        "key": "v",
+        "dwell_time": 0.2095,
+        "flight_time": 0.0454
+    },
+    {
+        "key": "e",
+        "dwell_time": 0.1865,
+        "flight_time": -0.1153
+    },
+    {
+        "key": "n",
+        "dwell_time": 0.116,
+        "flight_time": -0.0444
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1448,
+        "flight_time": -0.0337
+    },
+    {
+        "key": "m",
+        "dwell_time": 0.1571,
+        "flight_time": -0.0291
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1439,
+        "flight_time": 0.1311
+    },
+    {
+        "key": "m",
+        "dwell_time": 0.1218,
+        "flight_time": 0.0645
+    },
+    {
+        "key": "a",
+        "dwell_time": 0.1882,
+        "flight_time": -0.0501
+    },
+    {
+        "key": "r",
+        "dwell_time": 0.1554,
+        "flight_time": -0.0896
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1545,
+        "flight_time": -0.0943
+    },
+    {
+        "key": "s",
+        "dwell_time": 0.1601,
+        "flight_time": -0.0067
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1163,
+        "flight_time": -0.0723
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.14,
+        "flight_time": -0.0231
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1325,
+        "flight_time": -0.04
+    },
+    {
+        "key": "l",
+        "dwell_time": 0.1496,
+        "flight_time": 0.0772
+    },
+    {
+        "key": "e",
+        "dwell_time": 0.1694,
+        "flight_time": -0.0898
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1378,
+        "flight_time": -0.0535
+    },
+    {
+        "key": "u",
+        "dwell_time": 0.1541,
+        "flight_time": 0.0186
+    },
+    {
+        "key": "c",
+        "dwell_time": 0.1698,
+        "flight_time": -0.0376
+    },
+    {
+        "key": "n",
+        "dwell_time": 0.154,
+        "flight_time": -0.0107
+    },
+    {
+        "key": "o",
+        "dwell_time": 0.2037,
+        "flight_time": 0.0636
+    },
+    {
+        "key": "k",
+        "dwell_time": 0.1707,
+        "flight_time": -0.0938
+    },
+    {
+        "key": "t",
+        "dwell_time": 0.1833,
+        "flight_time": -0.0175
+    },
+    {
+        "key": "a",
+        "dwell_time": 0.1643,
+        "flight_time": -0.0655
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1335,
+        "flight_time": -0.0404
+    },
+    {
+        "key": "g",
+        "dwell_time": 0.154,
+        "flight_time": 0.1257
+    },
+    {
+        "key": "u",
+        "dwell_time": 0.1221,
+        "flight_time": -0.0158
+    },
+    {
+        "key": "v",
+        "dwell_time": 0.2161,
+        "flight_time": 0.0391
+    },
+    {
+        "key": "e",
+        "dwell_time": 0.2289,
+        "flight_time": -0.1572
+    },
+    {
+        "key": "n",
+        "dwell_time": 0.1328,
+        "flight_time": -0.0968
+    },
+    {
+        "key": "l",
+        "dwell_time": 0.1491,
+        "flight_time": 0.207
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1658,
+        "flight_time": 0.1005
+    },
+    {
+        "key": "g",
+        "dwell_time": 0.1699,
+        "flight_time": -0.0277
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1535,
+        "flight_time": -0.0546
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1434,
+        "flight_time": -0.0228
+    },
+    {
+        "key": "s",
+        "dwell_time": 0.1991,
+        "flight_time": 0.0048
+    },
+    {
+        "key": "a",
+        "dwell_time": 0.2049,
+        "flight_time": -0.1226
+    },
+    {
+        "key": "g",
+        "dwell_time": 0.1679,
+        "flight_time": 0.0043
+    },
+    {
+        "key": "l",
+        "dwell_time": 0.1479,
+        "flight_time": -0.0404
+    },
+    {
+        "key": "a",
+        "dwell_time": 0.1388,
+        "flight_time": -0.0326
+    },
+    {
+        "key": "m",
+        "dwell_time": 0.1451,
+        "flight_time": -0.0303
+    },
+    {
+        "key": "a",
+        "dwell_time": 0.1497,
+        "flight_time": -0.0575
+    },
+    {
+        "key": "k",
+        "dwell_time": 0.1224,
+        "flight_time": 0.0204
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1442,
+        "flight_time": -0.0122
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1788,
+        "flight_time": 0.021
+    },
+    {
+        "key": "c",
+        "dwell_time": 0.1613,
+        "flight_time": -0.0468
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1432,
+        "flight_time": -0.0508
+    },
+    {
+        "key": "n",
+        "dwell_time": 0.1399,
+        "flight_time": 0.1545
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1395,
+        "flight_time": 0.029
+    },
+    {
+        "key": "b",
+        "dwell_time": 0.1479,
+        "flight_time": -0.056
+    },
+    {
+        "key": "u",
+        "dwell_time": 0.112,
+        "flight_time": -0.0052
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1333,
+        "flight_time": -0.0303
+    },
+    {
+        "key": "p",
+        "dwell_time": 0.1614,
+        "flight_time": 0.02
+    },
+    {
+        "key": "r",
+        "dwell_time": 0.137,
+        "flight_time": -0.0617
+    },
+    {
+        "key": "o",
+        "dwell_time": 0.1249,
+        "flight_time": -0.0068
+    },
+    {
+        "key": "j",
+        "dwell_time": 0.1704,
+        "flight_time": 0.082
+    },
+    {
+        "key": "e",
+        "dwell_time": 0.204,
+        "flight_time": 0.037
+    },
+    {
+        "key": "y",
+        "dwell_time": 0.1452,
+        "flight_time": -0.0672
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1841,
+        "flight_time": 0.0232
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.15,
+        "flight_time": -0.0086
+    },
+    {
+        "key": "g",
+        "dwell_time": 0.1931,
+        "flight_time": -0.0072
+    },
+    {
+        "key": "e",
+        "dwell_time": 0.1937,
+        "flight_time": -0.1151
+    },
+    {
+        "key": "l",
+        "dwell_time": 0.133,
+        "flight_time": -0.0689
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1491,
+        "flight_time": 0.0744
+    },
+    {
+        "key": "s",
+        "dwell_time": 0.1505,
+        "flight_time": -0.0396
+    },
+    {
+        "key": "t",
+        "dwell_time": 0.1716,
+        "flight_time": 0.01
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1404,
+        "flight_time": -0.0576
+    },
+    {
+        "key": "r",
+        "dwell_time": 0.1628,
+        "flight_time": -0.0301
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1549,
+        "flight_time": -0.081
+    },
+    {
+        "key": "y",
+        "dwell_time": 0.1436,
+        "flight_time": -0.0334
+    },
+    {
+        "key": "o",
+        "dwell_time": 0.1372,
+        "flight_time": -0.0331
+    },
+    {
+        "key": "r",
+        "dwell_time": 0.1175,
+        "flight_time": -0.0387
+    },
+    {
+        "key": "u",
+        "dwell_time": 0.2209,
+        "flight_time": 0.1515
+    },
+    {
+        "key": "m",
+        "dwell_time": 0.1631,
+        "flight_time": -0.0349
+    },
+    {
+        "key": ".",
+        "dwell_time": 0.1543,
+        "flight_time": 0.1539
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1504,
+        "flight_time": 0.0862
+    },
+    {
+        "key": "Key.shift_r",
+        "dwell_time": 0.3754,
+        "flight_time": 0.1988
+    },
+    {
+        "key": "a",
+        "dwell_time": 0.1653,
+        "flight_time": 0.1021
+    },
+    {
+        "key": "n",
+        "dwell_time": 0.1431,
+        "flight_time": -0.0664
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1546,
+        "flight_time": -0.0447
+    },
+    {
+        "key": "k",
+        "dwell_time": 0.1435,
+        "flight_time": 0.1403
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1107,
+        "flight_time": 0.0234
+    },
+    {
+        "key": "t",
+        "dwell_time": 0.1896,
+        "flight_time": 0.1441
+    },
+    {
+        "key": "u",
+        "dwell_time": 0.1284,
+        "flight_time": 0.0853
+    },
+    {
+        "key": "z",
+        "dwell_time": 0.2204,
+        "flight_time": 0.0896
+    },
+    {
+        "key": "a",
+        "dwell_time": 0.1612,
+        "flight_time": -0.1167
+    },
+    {
+        "key": "g",
+        "dwell_time": 0.1775,
+        "flight_time": 0.0533
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1536,
+        "flight_time": -0.0554
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1388,
+        "flight_time": -0.0494
+    },
+    {
+        "key": "s",
+        "dwell_time": 0.1866,
+        "flight_time": -0.0676
+    },
+    {
+        "key": "u",
+        "dwell_time": 0.1619,
+        "flight_time": -0.0556
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.134,
+        "flight_time": -0.0526
+    },
+    {
+        "key": "a",
+        "dwell_time": 0.1609,
+        "flight_time": -0.046
+    },
+    {
+        "key": "n",
+        "dwell_time": 0.1261,
+        "flight_time": -0.0552
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1495,
+        "flight_time": -0.0448
+    },
+    {
+        "key": "k",
+        "dwell_time": 0.1281,
+        "flight_time": 0.0155
+    },
+    {
+        "key": "l",
+        "dwell_time": 0.1276,
+        "flight_time": 0.0511
+    },
+    {
+        "key": "a",
+        "dwell_time": 0.1714,
+        "flight_time": -0.0896
+    },
+    {
+        "key": "v",
+        "dwell_time": 0.1485,
+        "flight_time": -0.0875
+    },
+    {
+        "key": "y",
+        "dwell_time": 0.1889,
+        "flight_time": 0.1349
+    },
+    {
+        "key": "e",
+        "dwell_time": 0.174,
+        "flight_time": -0.0614
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1505,
+        "flight_time": -0.098
+    },
+    {
+        "key": "r",
+        "dwell_time": 0.1599,
+        "flight_time": -0.0574
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1543,
+        "flight_time": -0.0392
+    },
+    {
+        "key": "t",
+        "dwell_time": 0.1777,
+        "flight_time": -0.0281
+    },
+    {
+        "key": "m",
+        "dwell_time": 0.1209,
+        "flight_time": 0.134
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.178,
+        "flight_time": 0.1573
+    },
+    {
+        "key": "m",
+        "dwell_time": 0.1277,
+        "flight_time": 0.062
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1528,
+        "flight_time": 0.0615
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1305,
+        "flight_time": -0.0337
+    },
+    {
+        "key": "d",
+        "dwell_time": 0.1715,
+        "flight_time": -0.059
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1431,
+        "flight_time": -0.0667
+    },
+    {
+        "key": "n",
+        "dwell_time": 0.1106,
+        "flight_time": 0.0403
+    },
+    {
+        "key": "l",
+        "dwell_time": 0.1699,
+        "flight_time": -0.039
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1558,
+        "flight_time": 0.0794
+    },
+    {
+        "key": "y",
+        "dwell_time": 0.1767,
+        "flight_time": 0.0096
+    },
+    {
+        "key": "o",
+        "dwell_time": 0.1781,
+        "flight_time": -0.0507
+    },
+    {
+        "key": "r",
+        "dwell_time": 0.1322,
+        "flight_time": -0.0219
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1857,
+        "flight_time": -0.0506
+    },
+    {
+        "key": "v",
+        "dwell_time": 0.1816,
+        "flight_time": -0.0387
+    },
+    {
+        "key": "e",
+        "dwell_time": 0.16,
+        "flight_time": -0.1099
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1434,
+        "flight_time": -0.0563
+    },
+    {
+        "key": "a",
+        "dwell_time": 0.1817,
+        "flight_time": -0.0441
+    },
+    {
+        "key": "r",
+        "dwell_time": 0.1552,
+        "flight_time": -0.1
+    },
+    {
+        "key": "k",
+        "dwell_time": 0.1438,
+        "flight_time": -0.0457
+    },
+    {
+        "key": "a",
+        "dwell_time": 0.1547,
+        "flight_time": -0.0387
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1431,
+        "flight_time": -0.0609
+    },
+    {
+        "key": "p",
+        "dwell_time": 0.138,
+        "flight_time": -0.0508
+    },
+    {
+        "key": "l",
+        "dwell_time": 0.1376,
+        "flight_time": 0.0706
+    },
+    {
+        "key": "a",
+        "dwell_time": 0.1553,
+        "flight_time": -0.0945
+    },
+    {
+        "key": "n",
+        "dwell_time": 0.1164,
+        "flight_time": -0.0671
+    },
+    {
+        "key": "d",
+        "dwell_time": 0.1692,
+        "flight_time": 0.1051
+    },
+    {
+        "key": "a",
+        "dwell_time": 0.1671,
+        "flight_time": -0.089
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1712,
+        "flight_time": -0.0955
+    },
+    {
+        "key": "j",
+        "dwell_time": 0.1541,
+        "flight_time": 0.0165
+    },
+    {
+        "key": "s",
+        "dwell_time": 0.1659,
+        "flight_time": -0.0287
+    },
+    {
+        "key": "o",
+        "dwell_time": 0.1761,
+        "flight_time": 0.0773
+    },
+    {
+        "key": "n",
+        "dwell_time": 0.143,
+        "flight_time": -0.0335
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1453,
+        "flight_time": 0.0716
+    },
+    {
+        "key": "d",
+        "dwell_time": 0.1531,
+        "flight_time": -0.0034
+    },
+    {
+        "key": "o",
+        "dwell_time": 0.1376,
+        "flight_time": -0.0325
+    },
+    {
+        "key": "s",
+        "dwell_time": 0.1564,
+        "flight_time": -0.0289
+    },
+    {
+        "key": "y",
+        "dwell_time": 0.0878,
+        "flight_time": 0.0816
+    },
+    {
+        "key": "a",
+        "dwell_time": 0.167,
+        "flight_time": -0.0291
+    },
+    {
+        "key": "y",
+        "dwell_time": 0.2039,
+        "flight_time": 0.0797
+    },
+    {
+        "key": "Key.backspace",
+        "dwell_time": 0.1434,
+        "flight_time": 0.849
+    },
+    {
+        "key": "s",
+        "dwell_time": 0.1547,
+        "flight_time": 0.0201
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1763,
+        "flight_time": -0.033
+    },
+    {
+        "key": "n",
+        "dwell_time": 0.1949,
+        "flight_time": -0.0454
+    },
+    {
+        "key": "a",
+        "dwell_time": 0.166,
+        "flight_time": -0.069
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1305,
+        "flight_time": -0.0134
+    },
+    {
+        "key": "k",
+        "dwell_time": 0.1772,
+        "flight_time": -0.0195
+    },
+    {
+        "key": "a",
+        "dwell_time": 0.1971,
+        "flight_time": -0.0555
+    },
+    {
+        "key": "y",
+        "dwell_time": 0.1221,
+        "flight_time": -0.0547
+    },
+    {
+        "key": "d",
+        "dwell_time": 0.177,
+        "flight_time": 0.1275
+    },
+    {
+        "key": "e",
+        "dwell_time": 0.1823,
+        "flight_time": -0.0995
+    },
+    {
+        "key": "d",
+        "dwell_time": 0.1432,
+        "flight_time": -0.0303
+    },
+    {
+        "key": "i",
+        "dwell_time": 0.1698,
+        "flight_time": -0.0432
+    },
+    {
+        "key": "y",
+        "dwell_time": 0.172,
+        "flight_time": -0.0227
+    },
+    {
+        "key": "o",
+        "dwell_time": 0.1401,
+        "flight_time": -0.0512
+    },
+    {
+        "key": "r",
+        "dwell_time": 0.1472,
+        "flight_time": -0.0506
+    },
+    {
+        "key": "Key.space",
+        "dwell_time": 0.1495,
+        "flight_time": -0.0386
+    },
+    {
+        "key": "Key.esc",
+        "dwell_time": 0.1781,
+        "flight_time": 0.2179
+    }
+]
