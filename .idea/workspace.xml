@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d6fa07e-a967-4a41-be72-1e4afc7389a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ngram_engine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/risk_manager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
