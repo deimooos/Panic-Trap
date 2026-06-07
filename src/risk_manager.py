@@ -58,19 +58,19 @@ class RiskManager:
         self.check_thresholds()
 
     def check_thresholds(self):
-        # 3-Tier Defensive State Machine (50-75-90)
+        # Cascading thresholds: If risk spikes to 100 instantly, do ALL of them.
+
+        if self.current_risk >= 50:
+            print("[!] RISK > 50: SUSPICIOUS ACTIVITY. SILENT RECON STARTED.")
+            self.silent_recon()
+
+        if self.current_risk >= 75:
+            print("[!!] RISK > 75: HONEYPOT 2FA TRIGGERED!")
+            # Will be implemented in Issue 3 & 4
 
         if self.current_risk >= 90:
             print("[!!!] RISK > 90: NUCLEAR OPTION TRIGGERED (Network Kill & Lock)!")
             # Will be implemented in Issue 5
-
-        elif self.current_risk >= 75:
-            print("[!!] RISK > 75: HONEYPOT 2FA TRIGGERED!")
-            # Will be implemented in Issue 3 & 4
-
-        elif self.current_risk >= 50:
-            print("[!] RISK > 50: SUSPICIOUS ACTIVITY. SILENT RECON STARTED.")
-            self.silent_recon()
 
     def silent_recon(self):
         # Gather intelligence on the intruder
