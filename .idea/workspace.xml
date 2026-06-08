@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d6fa07e-a967-4a41-be72-1e4afc7389a3" name="Changes" comment="Update risk_manager threshold checking method.">
-      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/intruder_panic.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/intruder_panic.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/base_profile.json" beforeDir="false" afterPath="$PROJECT_DIR$/logs/base_profile.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/raw_keystrokes.json" beforeDir="false" afterPath="$PROJECT_DIR$/logs/raw_keystrokes.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/recon.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/recon.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/system_lockdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/system_lockdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listener.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/listener.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/risk_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/risk_manager.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

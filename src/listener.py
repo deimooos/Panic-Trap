@@ -52,8 +52,8 @@ class KeystrokeLogger:
             os.makedirs(self.log_dir)
 
         file_path = os.path.join(self.log_dir, 'raw_keystrokes.json')
-        with open(file_path, 'w') as f:
-            json.dump(self.typing_data, f, indent=4)
+        with open(file_path, 'w', encoding="utf-8") as f:
+            json.dump(self.typing_data, f, indent=4, ensure_ascii=False)
         print(f"[+] Successfully saved {len(self.typing_data)} keystrokes to {file_path}")
 
 

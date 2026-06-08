@@ -22,14 +22,16 @@ def on_press(key):
     global last_key_time, last_key, honeypot_triggered, nuke_triggered
 
     # Stop processing keystrokes if the system is already nuked
-    if nuke_triggered:
+    if honeypot_triggered or nuke_triggered:
         return
 
     try:
-        current_key = key.char
-    except AttributeError:
-        # Handle special keys (e.g., Key.space -> space)
-        current_key = str(key).replace('Key.', '')
+        if hasattr(key, 'char') and key.char is not None:
+            current_key = key.char.lower()
+        else:
+            current_key = str(key).replace('Key.', '')
+    except Exception:
+        return
 
     current_time = time.time()
 

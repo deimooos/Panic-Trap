@@ -37,12 +37,12 @@ class RiskManager:
         deviation = abs(flight_time - mean)
 
         # If it's within 1.5 std devs, it's probably the real owner. Decrease risk.
-        if deviation <= (1.5 * std):
+        if deviation <= (2.5 * std):
             self._update_risk(-1.5)
         # If it's further away, increase risk proportionally.
         # Someone typing completely different will spike the score fast.
         else:
-            penalty = (deviation / std) * 1.5
+            penalty = (deviation / std) * 1.0
             self._update_risk(penalty)
 
     def _update_risk(self, amount):
