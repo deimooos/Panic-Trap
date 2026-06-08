@@ -48,12 +48,12 @@ class RiskManager:
         mean = stats['mean']
         std = stats['std']
 
-        std_floor = 0.05
+        std_floor = 0.04
         effective_std = max(std, std_floor)
 
         deviation = abs(flight_time - mean)
 
-        if deviation <= (2.0 * effective_std):
+        if deviation <= (1.5 * effective_std):
             self._update_risk(-1.0)
         else:
             penalty = (deviation / effective_std) * 0.5

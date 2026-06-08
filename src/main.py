@@ -95,8 +95,8 @@ if __name__ == "__main__":
 
                 # If developer exits honeypot via ESC, reset triggers to allow testing again
                 honeypot_triggered = False
-                risk_engine.current_risk = 0.0
-                print("\n[*] Honeypot closed via developer override. Risk score reset to 0.0")
+                print("\n[*] Developer exit triggered. Closing honeypot.")
+                print(f"[*] Resuming monitoring. Current Risk Score: {round(risk_engine.current_risk, 1)}")
 
             # Small sleep to prevent the infinite while-loop from eating 100% CPU
             time.sleep(0.5)
