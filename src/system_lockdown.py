@@ -44,7 +44,7 @@ if __name__ == "__main__":
     print("[*] Lockdown Manager initialized.")
     # WARNING: Uncommenting the code below will immediately cut your internet and lock your PC!
 
-    # nuke = LockdownManager()
-    # nuke.trigger_nuke()
+    nuke = LockdownManager()
+    nuke.trigger_nuke()
 
     print("[*] Test execution is commented out for safety. Remove the # symbols to test.")
