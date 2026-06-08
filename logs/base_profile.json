@@ -1,1292 +1,1227 @@
 {
-    "g\u00fc": {
-        "mean": -0.0003,
-        "std": 0.0293,
-        "samples": 3
-    },
-    "\u00fcn": {
-        "mean": -0.0224,
-        "std": 0.0422,
-        "samples": 14
-    },
-    "ne": {
-        "mean": 0.0365,
-        "std": 0.0618,
-        "samples": 15
-    },
-    "e\u015f": {
-        "mean": -0.0403,
-        "std": 0.0675,
-        "samples": 10
-    },
-    "\u015fi": {
-        "mean": 0.0507,
-        "std": 0.0023,
+    "shift_rG": {
+        "mean": 0.2528,
+        "std": 0.149,
         "samples": 2
     },
-    "in": {
-        "mean": -0.0261,
-        "std": 0.1054,
-        "samples": 24
+    "\u00fcn": {
+        "mean": 0.1216,
+        "std": 0.0287,
+        "samples": 11
     },
-    "nKey.space": {
-        "mean": 0.0098,
-        "std": 0.1356,
-        "samples": 46
+    "ne": {
+        "mean": 0.1472,
+        "std": 0.0205,
+        "samples": 12
     },
-    "Key.spacee": {
-        "mean": 0.0824,
-        "std": 0.2783,
-        "samples": 10
+    "e\u015f": {
+        "mean": 0.1235,
+        "std": 0.0581,
+        "samples": 8
+    },
+    "\u015fspace": {
+        "mean": 0.0919,
+        "std": 0.0189,
+        "samples": 5
+    },
+    "spacee": {
+        "mean": 0.1407,
+        "std": 0.0947,
+        "samples": 7
     },
     "et": {
-        "mean": -0.0488,
-        "std": 0.0793,
+        "mean": 0.1212,
+        "std": 0.0271,
         "samples": 8
     },
     "tr": {
-        "mean": 0.011,
-        "std": 0.0574,
-        "samples": 6
+        "mean": 0.1792,
+        "std": 0.0187,
+        "samples": 5
     },
     "ra": {
-        "mean": -0.0873,
-        "std": 0.0444,
-        "samples": 17
+        "mean": 0.1163,
+        "std": 0.0274,
+        "samples": 16
     },
     "af": {
-        "mean": -0.106,
-        "std": 0.0047,
-        "samples": 6
+        "mean": 0.1231,
+        "std": 0.0155,
+        "samples": 5
     },
     "f\u0131": {
-        "mean": -0.0548,
-        "std": 0.0085,
-        "samples": 6
+        "mean": 0.1019,
+        "std": 0.0303,
+        "samples": 7
     },
     "\u0131n": {
-        "mean": -0.0641,
-        "std": 0.05,
-        "samples": 21
+        "mean": 0.1081,
+        "std": 0.0355,
+        "samples": 23
     },
     "nd": {
-        "mean": -0.0118,
-        "std": 0.0741,
-        "samples": 19
+        "mean": 0.1127,
+        "std": 0.0321,
+        "samples": 16
     },
     "da": {
-        "mean": -0.091,
-        "std": 0.0222,
-        "samples": 26
-    },
-    "aKey.space": {
-        "mean": -0.0541,
-        "std": 0.0842,
-        "samples": 29
-    },
-    "Key.spaced": {
-        "mean": -0.0152,
-        "std": 0.0555,
-        "samples": 26
-    },
-    "do": {
-        "mean": -0.0742,
-        "std": 0.0286,
-        "samples": 6
-    },
-    "ol": {
-        "mean": 0.0465,
-        "std": 0.0167,
-        "samples": 16
-    },
-    "la": {
-        "mean": -0.0606,
-        "std": 0.0318,
-        "samples": 28
-    },
-    "an": {
-        "mean": -0.0599,
-        "std": 0.0586,
-        "samples": 18
-    },
-    "na": {
-        "mean": -0.0394,
-        "std": 0.0441,
-        "samples": 8
-    },
-    "Key.spacek": {
-        "mean": 0.0672,
-        "std": 0.2096,
-        "samples": 16
-    },
-    "ke": {
-        "mean": -0.0387,
-        "std": 0.0174,
-        "samples": 7
-    },
-    "en": {
-        "mean": -0.0452,
-        "std": 0.0578,
-        "samples": 32
-    },
-    "ni": {
-        "mean": -0.002,
-        "std": 0.068,
-        "samples": 11
-    },
-    "iKey.backspace": {
-        "mean": 0.1978,
-        "std": 0.0817,
-        "samples": 3
-    },
-    "di": {
-        "mean": -0.0628,
-        "std": 0.0272,
-        "samples": 8
-    },
-    "eKey.space": {
-        "mean": -0.0331,
-        "std": 0.1113,
-        "samples": 26
-    },
-    "k\u00fc": {
-        "mean": 0.0444,
-        "std": 0.1423,
-        "samples": 6
-    },
-    "\u00fcr": {
-        "mean": -0.0269,
-        "std": 0.0586,
-        "samples": 4
-    },
-    "re": {
-        "mean": -0.0894,
-        "std": 0.0243,
-        "samples": 8
-    },
-    "es": {
-        "mean": -0.054,
-        "std": 0.138,
-        "samples": 9
-    },
-    "se": {
-        "mean": -0.109,
-        "std": 0.0376,
-        "samples": 5
-    },
-    "el": {
-        "mean": -0.0624,
-        "std": 0.0147,
-        "samples": 4
-    },
-    "lKey.space": {
-        "mean": -0.0364,
-        "std": 0.0453,
-        "samples": 6
-    },
-    "Key.spaceb": {
-        "mean": -0.0153,
-        "std": 0.0857,
-        "samples": 13
-    },
-    "bi": {
-        "mean": -0.0678,
-        "std": 0.0187,
-        "samples": 9
-    },
-    "ir": {
-        "mean": -0.0281,
-        "std": 0.0359,
-        "samples": 21
-    },
-    "rKey.space": {
-        "mean": -0.0467,
-        "std": 0.0372,
-        "samples": 16
-    },
-    "i\u00e7": {
-        "mean": -0.0736,
-        "std": 0.0024,
-        "samples": 3
-    },
-    "\u00e7i": {
-        "mean": -0.0301,
-        "std": 0.0082,
-        "samples": 3
-    },
-    "iKey.space": {
-        "mean": 0.0133,
-        "std": 0.0976,
-        "samples": 19
-    },
-    "Key.spacem": {
-        "mean": -0.029,
-        "std": 0.0543,
-        "samples": 4
-    },
-    "Key.spacev": {
-        "mean": -0.057,
-        "std": 0.0208,
-        "samples": 10
-    },
-    "ve": {
-        "mean": -0.0755,
-        "std": 0.0652,
-        "samples": 9
-    },
-    "er": {
-        "mean": -0.109,
-        "std": 0.0232,
-        "samples": 29
-    },
-    "ce": {
-        "mean": -0.0796,
-        "std": 0.0283,
-        "samples": 8
-    },
-    "ek": {
-        "mean": -0.0397,
-        "std": 0.0241,
-        "samples": 5
-    },
-    "kKey.space": {
-        "mean": -0.0113,
-        "std": 0.0805,
-        "samples": 20
-    },
-    "ka": {
-        "mean": -0.082,
-        "std": 0.0304,
-        "samples": 10
-    },
-    "ad": {
-        "mean": -0.0759,
-        "std": 0.0166,
-        "samples": 4
-    },
-    "ar": {
-        "mean": -0.1064,
-        "std": 0.0274,
-        "samples": 26
-    },
-    "\u00fct": {
-        "mean": -0.0301,
-        "std": 0.0124,
-        "samples": 7
-    },
-    "tl": {
-        "mean": -0.047,
-        "std": 0.0109,
-        "samples": 3
-    },
-    "le": {
-        "mean": -0.0535,
-        "std": 0.0303,
+        "mean": 0.0965,
+        "std": 0.016,
         "samples": 22
     },
-    "si": {
-        "mean": -0.055,
-        "std": 0.0438,
-        "samples": 16
+    "ak": {
+        "mean": 0.0931,
+        "std": 0.0335,
+        "samples": 15
     },
-    "Key.spaceo": {
-        "mean": -0.0108,
-        "std": 0.0662,
-        "samples": 12
+    "ki": {
+        "mean": 0.2161,
+        "std": 0.024,
+        "samples": 6
     },
-    "Key.space\u00f6": {
-        "mean": 0.1111,
-        "std": 0.0829,
-        "samples": 2
+    "ispace": {
+        "mean": 0.2004,
+        "std": 0.2315,
+        "samples": 18
     },
-    "yKey.backspace": {
-        "mean": 0.1898,
-        "std": 0.0648,
-        "samples": 2
+    "spaceb": {
+        "mean": 0.1088,
+        "std": 0.0472,
+        "samples": 10
     },
-    "Key.backspaceKey.backspace": {
-        "mean": 0.0648,
-        "std": 0.0884,
-        "samples": 30
+    "bi": {
+        "mean": 0.107,
+        "std": 0.0259,
+        "samples": 8
     },
-    "y\u00f6": {
-        "mean": 0.008,
-        "std": 0.0356,
+    "ir": {
+        "mean": 0.1174,
+        "std": 0.0365,
+        "samples": 18
+    },
+    "rspace": {
+        "mean": 0.0967,
+        "std": 0.0273,
+        "samples": 15
+    },
+    "spacet": {
+        "mean": 0.1952,
+        "std": 0.1055,
+        "samples": 7
+    },
+    "t\u00f6": {
+        "mean": 0.1028,
+        "std": 0.0156,
         "samples": 2
     },
     "\u00f6r": {
-        "mean": -0.0404,
-        "std": 0.0087,
-        "samples": 3
+        "mean": 0.1588,
+        "std": 0.0496,
+        "samples": 4
     },
     "r\u00fc": {
-        "mean": -0.0012,
-        "std": 0.0358,
-        "samples": 3
+        "mean": 0.1503,
+        "std": 0.077,
+        "samples": 5
     },
     "ng": {
-        "mean": 0.0588,
-        "std": 0.0127,
-        "samples": 2
+        "mean": 0.196,
+        "std": 0.0223,
+        "samples": 3
     },
     "ge": {
-        "mean": -0.1068,
-        "std": 0.0133,
-        "samples": 29
+        "mean": 0.0923,
+        "std": 0.0362,
+        "samples": 26
     },
-    "Key.spacey": {
-        "mean": 0.0424,
-        "std": 0.0915,
-        "samples": 15
-    },
-    "ya": {
-        "mean": -0.0851,
-        "std": 0.0111,
+    "ed": {
+        "mean": 0.2077,
+        "std": 0.0587,
         "samples": 4
     },
-    "ak": {
-        "mean": -0.0304,
-        "std": 0.1128,
-        "samples": 14
-    },
-    "Key.space\u00e7": {
-        "mean": -0.0159,
-        "std": 0.0153,
-        "samples": 4
-    },
-    "\u00e7e": {
-        "mean": -0.0287,
-        "std": 0.0194,
-        "samples": 5
-    },
-    "ev": {
-        "mean": -0.0723,
-        "std": 0.0176,
-        "samples": 2
-    },
-    "vr": {
-        "mean": 0.0738,
-        "std": 0.0023,
-        "samples": 2
-    },
-    "Key.space(": {
-        "mean": 0.3581,
-        "std": 0.0302,
-        "samples": 3
-    },
-    "(Key.shift_r": {
-        "mean": -0.3651,
-        "std": 0.0985,
-        "samples": 2
-    },
-    "Key.shift_rd": {
-        "mean": 0.3439,
-        "std": 0.206,
-        "samples": 5
-    },
-    "o\u011f": {
-        "mean": 0.0838,
-        "std": 0.0229,
-        "samples": 2
-    },
-    "\u011fa": {
-        "mean": 0.1358,
-        "std": 0.1968,
-        "samples": 2
-    },
-    "al": {
-        "mean": -0.0306,
-        "std": 0.0366,
-        "samples": 6
-    },
-    "Key.spaceu": {
-        "mean": 0.0792,
-        "std": 0.139,
-        "samples": 6
-    },
-    "uy": {
-        "mean": 0.0225,
-        "std": 0.0393,
-        "samples": 3
-    },
-    "yd": {
-        "mean": 0.0394,
-        "std": 0.0086,
-        "samples": 3
-    },
-    "du": {
-        "mean": 0.0049,
-        "std": 0.0833,
-        "samples": 10
-    },
-    "ul": {
-        "mean": 0.0811,
-        "std": 0.0145,
-        "samples": 4
-    },
-    "r\u0131": {
-        "mean": 0.0211,
-        "std": 0.196,
-        "samples": 5
-    },
-    "\u0131Key.space": {
-        "mean": -0.002,
-        "std": 0.1183,
+    "de": {
+        "mean": 0.0906,
+        "std": 0.0164,
         "samples": 9
     },
-    "d\u0131": {
-        "mean": -0.0563,
-        "std": 0.0292,
-        "samples": 6
+    "espace": {
+        "mean": 0.1258,
+        "std": 0.0708,
+        "samples": 24
     },
-    "\u0131\u015f": {
-        "mean": 0.0607,
-        "std": 0.0063,
-        "samples": 2
+    "spaced": {
+        "mean": 0.1161,
+        "std": 0.0449,
+        "samples": 16
     },
-    "\u015f\u0131": {
-        "mean": 0.0826,
-        "std": 0.0165,
-        "samples": 3
+    "do": {
+        "mean": 0.0749,
+        "std": 0.0243,
+        "samples": 5
     },
-    ")Key.shift_r": {
-        "mean": -0.7228,
-        "std": 0.4403,
-        "samples": 3
-    },
-    "Key.shift_rKey.space": {
-        "mean": 0.124,
-        "std": 0.1599,
-        "samples": 7
-    },
-    "Key.spacet": {
-        "mean": 0.1079,
-        "std": 0.1505,
-        "samples": 6
-    },
-    "te": {
-        "mean": -0.0841,
-        "std": 0.0282,
-        "samples": 11
-    },
-    "em": {
-        "mean": -0.0512,
-        "std": 0.0363,
-        "samples": 10
-    },
-    "mi": {
-        "mean": 0.0571,
-        "std": 0.0589,
+    "ol": {
+        "mean": 0.1668,
+        "std": 0.0134,
         "samples": 14
     },
-    "iz": {
-        "mean": -0.0723,
-        "std": 0.0148,
-        "samples": 3
-    },
-    "zl": {
-        "mean": -0.0274,
-        "std": 0.0286,
-        "samples": 3
-    },
-    "i\u015f": {
-        "mean": 0.042,
-        "std": 0.0082,
-        "samples": 7
-    },
-    "\u015fKey.space": {
-        "mean": -0.0401,
-        "std": 0.0187,
-        "samples": 4
-    },
-    "Key.spaceg": {
-        "mean": -0.0268,
-        "std": 0.0568,
+    "la": {
+        "mean": 0.0879,
+        "std": 0.0628,
         "samples": 23
     },
-    "g\u00f6": {
-        "mean": -0.0471,
-        "std": 0.0383,
+    "an": {
+        "mean": 0.1153,
+        "std": 0.032,
+        "samples": 17
+    },
+    "na": {
+        "mean": 0.2781,
+        "std": 0.2816,
         "samples": 9
     },
-    "\u00f6k": {
-        "mean": 0.046,
-        "std": 0.0165,
-        "samples": 6
+    "nspace": {
+        "mean": 0.1312,
+        "std": 0.0481,
+        "samples": 37
     },
-    "Key.spacec": {
-        "mean": 0.0179,
-        "std": 0.1038,
-        "samples": 14
+    "spacec": {
+        "mean": 0.1866,
+        "std": 0.1176,
+        "samples": 9
     },
     "ci": {
-        "mean": -0.0815,
-        "std": 0.0164,
+        "mean": 0.1135,
+        "std": 0.021,
         "samples": 8
     },
     "is": {
-        "mean": -0.0326,
-        "std": 0.0352,
-        "samples": 18
+        "mean": 0.1226,
+        "std": 0.0425,
+        "samples": 17
+    },
+    "si": {
+        "mean": 0.0951,
+        "std": 0.0217,
+        "samples": 12
     },
     "im": {
-        "mean": 0.0526,
-        "std": 0.0509,
-        "samples": 12
+        "mean": 0.1998,
+        "std": 0.0629,
+        "samples": 13
     },
     "ml": {
-        "mean": 0.0495,
-        "std": 0.0611,
-        "samples": 13
-    },
-    "ri": {
-        "mean": -0.0297,
-        "std": 0.0734,
-        "samples": 20
-    },
-    "ez": {
-        "mean": 0.0733,
-        "std": 0.0106,
-        "samples": 13
-    },
-    "ze": {
-        "mean": 0.0684,
-        "std": 0.0084,
-        "samples": 14
-    },
-    "eg": {
-        "mean": -0.0589,
-        "std": 0.0136,
-        "samples": 13
-    },
-    "de": {
-        "mean": -0.1112,
-        "std": 0.0157,
-        "samples": 12
-    },
-    "r.": {
-        "mean": 0.0731,
-        "std": 0.1024,
-        "samples": 13
-    },
-    ".Key.space": {
-        "mean": 0.0645,
-        "std": 0.0938,
-        "samples": 15
-    },
-    "il": {
-        "mean": 0.0611,
-        "std": 0.0123,
-        "samples": 7
-    },
-    "li": {
-        "mean": 0.0643,
-        "std": 0.0054,
-        "samples": 3
-    },
-    "Key.spaces": {
-        "mean": -0.0434,
-        "std": 0.0192,
+        "mean": 0.1567,
+        "std": 0.0242,
         "samples": 10
     },
-    "ki": {
-        "mean": 0.0874,
-        "std": 0.011,
+    "le": {
+        "mean": 0.1037,
+        "std": 0.0318,
+        "samples": 23
+    },
+    "er": {
+        "mean": 0.1047,
+        "std": 0.0254,
+        "samples": 26
+    },
+    "spaceg": {
+        "mean": 0.1125,
+        "std": 0.0428,
+        "samples": 18
+    },
+    "en": {
+        "mean": 0.1487,
+        "std": 0.1512,
+        "samples": 29
+    },
+    "el": {
+        "mean": 0.1097,
+        "std": 0.0203,
+        "samples": 4
+    },
+    "lspace": {
+        "mean": 0.1043,
+        "std": 0.0389,
         "samples": 5
     },
-    "zKey.space": {
-        "mean": -0.0215,
-        "std": 0.0082,
+    "spaceo": {
+        "mean": 0.1238,
+        "std": 0.0303,
+        "samples": 10
+    },
+    "ar": {
+        "mean": 0.1089,
+        "std": 0.0319,
+        "samples": 27
+    },
+    "kspace": {
+        "mean": 0.1186,
+        "std": 0.0422,
+        "samples": 17
+    },
+    "space\u00fc": {
+        "mean": 0.1383,
+        "std": 0.0195,
+        "samples": 2
+    },
+    "\u00fc\u00e7": {
+        "mean": 0.2083,
+        "std": 0.105,
         "samples": 4
+    },
+    "\u00e7e": {
+        "mean": 0.1188,
+        "std": 0.033,
+        "samples": 5
+    },
+    "spacea": {
+        "mean": 0.1699,
+        "std": 0.1636,
+        "samples": 4
+    },
+    "ay": {
+        "mean": 0.1672,
+        "std": 0.0371,
+        "samples": 2
+    },
+    "r\u0131": {
+        "mean": 0.082,
+        "std": 0.0322,
+        "samples": 7
+    },
+    "\u0131l": {
+        "mean": 0.2918,
+        "std": 0.2549,
+        "samples": 8
+    },
+    "l\u0131": {
+        "mean": 0.2179,
+        "std": 0.1029,
+        "samples": 7
     },
     "\u0131r": {
-        "mean": -0.0517,
-        "std": 0.0074,
-        "samples": 4
+        "mean": 0.1093,
+        "std": 0.0194,
+        "samples": 5
     },
-    "eKey.backspace": {
-        "mean": 0.0899,
-        "std": 0.072,
-        "samples": 3
-    },
-    "Key.backspacem": {
-        "mean": -0.0008,
-        "std": 0.0611,
+    "rshift_r": {
+        "mean": 0.2631,
+        "std": 0.0497,
         "samples": 2
     },
-    "me": {
-        "mean": -0.045,
-        "std": 0.0205,
-        "samples": 5
+    "spaceshift_r": {
+        "mean": 0.1768,
+        "std": 0.1303,
+        "samples": 56
+    },
+    "shift_rE": {
+        "mean": 0.1992,
+        "std": 0.0465,
+        "samples": 2
+    },
+    "zbackspace": {
+        "mean": 0.3836,
+        "std": 0.0552,
+        "samples": 3
+    },
+    "backspacebackspace": {
+        "mean": 0.1528,
+        "std": 0.0602,
+        "samples": 27
+    },
+    "backspacee": {
+        "mean": 0.1032,
+        "std": 0.0481,
+        "samples": 3
+    },
+    "ez": {
+        "mean": 0.2169,
+        "std": 0.0182,
+        "samples": 12
+    },
+    "ze": {
+        "mean": 0.2159,
+        "std": 0.017,
+        "samples": 13
+    },
+    "eg": {
+        "mean": 0.1238,
+        "std": 0.0376,
+        "samples": 11
+    },
+    "nl": {
+        "mean": 0.2318,
+        "std": 0.0142,
+        "samples": 3
     },
     "r,": {
-        "mean": 0.2365,
-        "std": 0.1121,
+        "mean": 0.3678,
+        "std": 0.1667,
         "samples": 3
     },
-    ",Key.space": {
-        "mean": 0.0145,
-        "std": 0.0351,
+    ",space": {
+        "mean": 0.2387,
+        "std": 0.1761,
         "samples": 15
     },
-    "n\u00fc": {
-        "mean": -0.0304,
-        "std": 0.0115,
-        "samples": 3
-    },
-    "\u00fcs": {
-        "mean": -0.0148,
-        "std": 0.0071,
+    "shift_rC": {
+        "mean": 0.1208,
+        "std": 0.0107,
         "samples": 2
     },
-    "sKey.space": {
-        "mean": -0.0228,
-        "std": 0.0235,
-        "samples": 4
+    "\u00fcc": {
+        "mean": 0.1291,
+        "std": 0.028,
+        "samples": 6
     },
-    "Key.spaceKey.backspace": {
-        "mean": 0.392,
-        "std": 0.219,
-        "samples": 4
+    "ce": {
+        "mean": 0.1076,
+        "std": 0.0201,
+        "samples": 7
     },
-    "Key.backspace,": {
-        "mean": 0.0935,
-        "std": 0.035,
-        "samples": 3
+    "spacev": {
+        "mean": 0.0859,
+        "std": 0.0309,
+        "samples": 10
     },
-    "a,": {
-        "mean": 0.2575,
-        "std": 0.2193,
-        "samples": 3
-    },
-    "Key.spacen": {
-        "mean": 0.1831,
-        "std": 0.1254,
-        "samples": 3
-    },
-    "nKey.backspace": {
-        "mean": 0.2208,
-        "std": 0.0988,
-        "samples": 5
-    },
-    "ma": {
-        "mean": -0.0292,
-        "std": 0.0219,
+    "ve": {
+        "mean": 0.0839,
+        "std": 0.022,
         "samples": 9
     },
-    "s,": {
-        "mean": 0.0847,
-        "std": 0.0571,
+    "\u00e7\u00fc": {
+        "mean": 0.1552,
+        "std": 0.0299,
+        "samples": 3
+    },
+    "\u00fck": {
+        "mean": 0.1078,
+        "std": 0.018,
+        "samples": 3
+    },
+    "shift_r\u00fc": {
+        "mean": 0.3327,
+        "std": 0.0325,
+        "samples": 8
+    },
+    "st": {
+        "mean": 0.173,
+        "std": 0.0537,
+        "samples": 8
+    },
+    "te": {
+        "mean": 0.0917,
+        "std": 0.0203,
+        "samples": 10
+    },
+    "em": {
+        "mean": 0.1137,
+        "std": 0.0476,
+        "samples": 9
+    },
+    "mi": {
+        "mean": 0.1864,
+        "std": 0.0529,
+        "samples": 14
+    },
+    "shift_ri": {
+        "mean": 0.3064,
+        "std": 0.0937,
+        "samples": 4
+    },
+    "ri": {
+        "mean": 0.1193,
+        "std": 0.053,
+        "samples": 16
+    },
+    ".space": {
+        "mean": 0.2075,
+        "std": 0.0621,
+        "samples": 13
+    },
+    "\u015fi": {
+        "mean": 0.1995,
+        "std": 0.021,
         "samples": 2
     },
-    "sa": {
-        "mean": -0.0958,
-        "std": 0.0199,
+    "ibackspace": {
+        "mean": 0.3096,
+        "std": 0.0349,
+        "samples": 6
+    },
+    "backspaceshift_r": {
+        "mean": 0.2253,
+        "std": 0.0078,
+        "samples": 2
+    },
+    "shift_r'": {
+        "mean": 0.0861,
+        "std": 0.0329,
+        "samples": 6
+    },
+    "in": {
+        "mean": 0.1094,
+        "std": 0.0316,
+        "samples": 16
+    },
+    "aspace": {
+        "mean": 0.1517,
+        "std": 0.107,
+        "samples": 22
+    },
+    "n\u00fc": {
+        "mean": 0.2795,
+        "std": 0.2707,
+        "samples": 4
+    },
+    "\u00fcspace": {
+        "mean": 0.2379,
+        "std": 0.0372,
+        "samples": 2
+    },
+    "ebackspace": {
+        "mean": 0.3566,
+        "std": 0.1256,
+        "samples": 5
+    },
+    "ke": {
+        "mean": 0.1169,
+        "std": 0.0299,
+        "samples": 6
+    },
+    "di": {
+        "mean": 0.0911,
+        "std": 0.0392,
+        "samples": 6
+    },
+    "spacek": {
+        "mean": 0.1731,
+        "std": 0.1157,
+        "samples": 14
+    },
+    "k\u00fc": {
+        "mean": 0.1711,
+        "std": 0.0433,
+        "samples": 5
+    },
+    "\u00fcr": {
+        "mean": 0.1766,
+        "std": 0.113,
+        "samples": 4
+    },
+    "re": {
+        "mean": 0.0849,
+        "std": 0.0202,
+        "samples": 7
+    },
+    "es": {
+        "mean": 0.1239,
+        "std": 0.0193,
+        "samples": 7
+    },
+    "se": {
+        "mean": 0.1187,
+        "std": 0.0189,
+        "samples": 4
+    },
+    "spacei": {
+        "mean": 0.0959,
+        "std": 0.0145,
+        "samples": 4
+    },
+    "i\u00e7": {
+        "mean": 0.1058,
+        "std": 0.0133,
         "samples": 3
     },
-    "at": {
-        "mean": -0.1212,
-        "std": 0.0096,
+    "\u00e7i": {
+        "mean": 0.1254,
+        "std": 0.0002,
         "samples": 3
+    },
+    "ek": {
+        "mean": 0.1018,
+        "std": 0.0204,
+        "samples": 5
+    },
+    "ka": {
+        "mean": 0.0823,
+        "std": 0.0326,
+        "samples": 9
+    },
+    "ad": {
+        "mean": 0.1099,
+        "std": 0.0232,
+        "samples": 3
+    },
+    "\u00fct": {
+        "mean": 0.1531,
+        "std": 0.0411,
+        "samples": 7
+    },
+    "tl": {
+        "mean": 0.1889,
+        "std": 0.083,
+        "samples": 3
+    },
+    "rbackspace": {
+        "mean": 0.358,
+        "std": 0.1011,
+        "samples": 4
+    },
+    "backspacey": {
+        "mean": 0.0918,
+        "std": 0.0255,
+        "samples": 3
+    },
+    "y\u00f6": {
+        "mean": 0.1223,
+        "std": 0.0294,
+        "samples": 2
+    },
+    "ni": {
+        "mean": 0.1075,
+        "std": 0.0526,
+        "samples": 9
+    },
+    "spacey": {
+        "mean": 0.1982,
+        "std": 0.1215,
+        "samples": 9
+    },
+    "ya": {
+        "mean": 0.1058,
+        "std": 0.0303,
+        "samples": 2
+    },
+    "space\u00e7": {
+        "mean": 0.1038,
+        "std": 0.0097,
+        "samples": 3
+    },
+    "shift_r(": {
+        "mean": 0.2904,
+        "std": 0.0571,
+        "samples": 3
+    },
+    "al": {
+        "mean": 0.0958,
+        "std": 0.0212,
+        "samples": 5
+    },
+    "spaceu": {
+        "mean": 0.4277,
+        "std": 0.2138,
+        "samples": 2
+    },
+    "uy": {
+        "mean": 0.2099,
+        "std": 0.0886,
+        "samples": 2
+    },
+    "yd": {
+        "mean": 0.1831,
+        "std": 0.0074,
+        "samples": 2
+    },
+    "du": {
+        "mean": 0.1889,
+        "std": 0.0759,
+        "samples": 6
+    },
+    "ul": {
+        "mean": 0.1962,
+        "std": 0.0009,
+        "samples": 2
+    },
+    "\u0131space": {
+        "mean": 0.1166,
+        "std": 0.0227,
+        "samples": 5
+    },
+    "d\u0131": {
+        "mean": 0.0768,
+        "std": 0.0172,
+        "samples": 6
+    },
+    "\u0131\u015f": {
+        "mean": 0.2068,
+        "std": 0.0161,
+        "samples": 2
+    },
+    "\u015f\u0131": {
+        "mean": 0.2092,
+        "std": 0.0032,
+        "samples": 2
+    },
+    "shift_r)": {
+        "mean": 0.2987,
+        "std": 0.0693,
+        "samples": 2
+    },
+    ")space": {
+        "mean": 0.284,
+        "std": 0.0204,
+        "samples": 2
+    },
+    "iz": {
+        "mean": 0.075,
+        "std": 0.0064,
+        "samples": 3
+    },
+    "zl": {
+        "mean": 0.1258,
+        "std": 0.0188,
+        "samples": 3
+    },
+    "i\u015f": {
+        "mean": 0.1613,
+        "std": 0.0135,
+        "samples": 7
+    },
+    "g\u00f6": {
+        "mean": 0.1169,
+        "std": 0.0339,
+        "samples": 8
+    },
+    "\u00f6k": {
+        "mean": 0.2951,
+        "std": 0.0707,
+        "samples": 5
+    },
+    "me": {
+        "mean": 0.1347,
+        "std": 0.0552,
+        "samples": 5
+    },
+    "backspacel": {
+        "mean": 0.2988,
+        "std": 0.0845,
+        "samples": 4
+    },
+    "r.": {
+        "mean": 0.2554,
+        "std": 0.1359,
+        "samples": 10
+    },
+    "il": {
+        "mean": 0.1834,
+        "std": 0.0116,
+        "samples": 6
+    },
+    "li": {
+        "mean": 0.1734,
+        "std": 0.014,
+        "samples": 3
+    },
+    "spaces": {
+        "mean": 0.1067,
+        "std": 0.0715,
+        "samples": 9
+    },
+    "zspace": {
+        "mean": 0.1328,
+        "std": 0.0221,
+        "samples": 4
+    },
+    "shift_rM": {
+        "mean": 0.1723,
+        "std": 0.0477,
+        "samples": 2
+    },
+    "\u00fcs": {
+        "mean": 0.1259,
+        "std": 0.016,
+        "samples": 2
+    },
+    "s,": {
+        "mean": 0.2171,
+        "std": 0.0217,
+        "samples": 4
+    },
+    "rs": {
+        "mean": 0.3496,
+        "std": 0.1653,
+        "samples": 2
+    },
+    "shift_ra": {
+        "mean": 0.4359,
+        "std": 0.1037,
+        "samples": 4
     },
     "t\u00fc": {
-        "mean": -0.0367,
-        "std": 0.0193,
+        "mean": 0.1232,
+        "std": 0.0031,
         "samples": 2
     },
     "n,": {
-        "mean": 0.394,
-        "std": 0.1174,
+        "mean": 0.4312,
+        "std": 0.0639,
         "samples": 4
     },
-    "ur": {
-        "mean": 0.0496,
-        "std": 0.0974,
-        "samples": 4
+    "shift_rU": {
+        "mean": 0.616,
+        "std": 0.3693,
+        "samples": 2
     },
-    "Key.spaceNone": {
-        "mean": 0.3796,
-        "std": 0.13,
-        "samples": 6
+    "sspace": {
+        "mean": 0.1958,
+        "std": 0.0717,
+        "samples": 3
     },
     "NoneNone": {
-        "mean": 0.1565,
-        "std": 0.107,
+        "mean": 0.2885,
+        "std": 0.089,
         "samples": 6
     },
-    "NoneKey.space": {
-        "mean": 0.0347,
-        "std": 0.0582,
+    "Nonespace": {
+        "mean": 0.2388,
+        "std": 0.1447,
         "samples": 3
     },
-    "Key.spacea": {
-        "mean": -0.0709,
-        "std": 0.0758,
-        "samples": 7
+    "shift_rA": {
+        "mean": 0.1106,
+        "std": 0.0043,
+        "samples": 2
     },
     "\u011fu": {
-        "mean": 0.0485,
-        "std": 0.067,
-        "samples": 5
+        "mean": 0.1609,
+        "std": 0.0828,
+        "samples": 4
     },
     "us": {
-        "mean": -0.0544,
-        "std": 0.016,
+        "mean": 0.1357,
+        "std": 0.0835,
         "samples": 3
     },
-    "st": {
-        "mean": 0.018,
-        "std": 0.0494,
-        "samples": 8
-    },
     "to": {
-        "mean": 0.0063,
-        "std": 0.0319,
+        "mean": 0.122,
+        "std": 0.0199,
         "samples": 6
     },
-    "as": {
-        "mean": -0.0867,
-        "std": 0.0166,
-        "samples": 7
-    },
-    "s\u0131": {
-        "mean": -0.0615,
-        "std": 0.0282,
-        "samples": 7
-    },
-    "ro": {
-        "mean": 0.0309,
-        "std": 0.0287,
+    "spaceNone": {
+        "mean": 0.3876,
+        "std": 0.0641,
         "samples": 5
     },
+    "shift_rd": {
+        "mean": 0.432,
+        "std": 0.0062,
+        "samples": 2
+    },
+    "as": {
+        "mean": 0.1278,
+        "std": 0.0227,
+        "samples": 6
+    },
+    "su": {
+        "mean": 0.1479,
+        "std": 0.0056,
+        "samples": 2
+    },
+    "uspace": {
+        "mean": 0.0951,
+        "std": 0.0212,
+        "samples": 8
+    },
+    "sbackspace": {
+        "mean": 0.3662,
+        "std": 0.0638,
+        "samples": 2
+    },
+    "backspaceo": {
+        "mean": 0.2835,
+        "std": 0.0724,
+        "samples": 2
+    },
     "on": {
-        "mean": -0.0216,
-        "std": 0.0399,
-        "samples": 13
+        "mean": 0.1455,
+        "std": 0.074,
+        "samples": 12
+    },
+    "shift_rr": {
+        "mean": 0.3341,
+        "std": 0.0463,
+        "samples": 2
+    },
+    "backspacei": {
+        "mean": 0.2664,
+        "std": 0.129,
+        "samples": 3
     },
     "i\u011f": {
-        "mean": 0.0771,
-        "std": 0.0461,
+        "mean": 0.1704,
+        "std": 0.0132,
         "samples": 3
     },
     "\u011fi": {
-        "mean": 0.0615,
+        "mean": 0.1791,
+        "std": 0.0128,
+        "samples": 4
+    },
+    "(shift_r": {
+        "mean": 0.317,
+        "std": 0.0796,
+        "samples": 2
+    },
+    "shift_rI": {
+        "mean": 0.3004,
+        "std": 0.1326,
+        "samples": 3
+    },
+    "spacebackspace": {
+        "mean": 0.3978,
+        "std": 0.1197,
+        "samples": 4
+    },
+    "backspace,": {
+        "mean": 0.3459,
+        "std": 0.1325,
+        "samples": 5
+    },
+    "shift_rP": {
+        "mean": 0.3722,
+        "std": 0.0593,
+        "samples": 2
+    },
+    "Pl": {
+        "mean": 0.2402,
+        "std": 0.0111,
+        "samples": 2
+    },
+    "l\u00fc": {
+        "mean": 0.2277,
+        "std": 0.0535,
+        "samples": 5
+    },
+    "nshift_r": {
+        "mean": 0.2392,
+        "std": 0.0264,
+        "samples": 6
+    },
+    "ta": {
+        "mean": 0.0974,
+        "std": 0.0103,
+        "samples": 5
+    },
+    "n\u0131": {
+        "mean": 0.0654,
+        "std": 0.0141,
+        "samples": 4
+    },
+    "\u0131m": {
+        "mean": 0.1104,
+        "std": 0.0162,
+        "samples": 3
+    },
+    "m\u0131": {
+        "mean": 0.1132,
+        "std": 0.0222,
+        "samples": 2
+    },
+    "ac": {
+        "mean": 0.151,
+        "std": 0.0126,
+        "samples": 2
+    },
+    "ca": {
+        "mean": 0.0941,
+        "std": 0.0132,
+        "samples": 3
+    },
+    "space\"": {
+        "mean": 0.3304,
+        "std": 0.0411,
+        "samples": 2
+    },
+    "n\"": {
+        "mean": 0.2462,
+        "std": 0.0005,
+        "samples": 2
+    },
+    "\"space": {
+        "mean": 0.2749,
+        "std": 0.0902,
+        "samples": 2
+    },
+    "backspacet": {
+        "mean": 0.0837,
+        "std": 0.0183,
+        "samples": 5
+    },
+    "ma": {
+        "mean": 0.1321,
+        "std": 0.0239,
+        "samples": 5
+    },
+    "am": {
+        "mean": 0.104,
+        "std": 0.0766,
+        "samples": 2
+    },
+    "s\u0131": {
+        "mean": 0.0785,
+        "std": 0.0325,
+        "samples": 6
+    },
+    "\u015ft": {
+        "mean": 0.0875,
+        "std": 0.0258,
+        "samples": 5
+    },
+    "ti": {
+        "mean": 0.1177,
+        "std": 0.0131,
+        "samples": 8
+    },
+    "shift_re": {
+        "mean": 0.2851,
+        "std": 0.0218,
+        "samples": 2
+    },
+    "shift_rH": {
+        "mean": 0.4517,
+        "std": 0.0008,
+        "samples": 2
+    },
+    "ea": {
+        "mean": 0.1639,
+        "std": 0.0004,
+        "samples": 2
+    },
+    "c\u00fc": {
+        "mean": 0.0909,
+        "std": 0.0145,
+        "samples": 3
+    },
+    "ee": {
+        "mean": 0.1802,
+        "std": 0.0483,
+        "samples": 2
+    },
+    "nbackspace": {
+        "mean": 0.2983,
+        "std": 0.0347,
+        "samples": 2
+    },
+    "ye": {
+        "mean": 0.0893,
+        "std": 0.0162,
+        "samples": 6
+    },
+    "id": {
+        "mean": 0.4298,
+        "std": 0.4107,
+        "samples": 3
+    },
+    "\u00fcbackspace": {
+        "mean": 0.5165,
+        "std": 0.0712,
+        "samples": 4
+    },
+    "e\u00e7": {
+        "mean": 0.103,
+        "std": 0.0155,
+        "samples": 2
+    },
+    "ai": {
+        "mean": 0.1309,
+        "std": 0.0339,
+        "samples": 3
+    },
+    "sa": {
+        "mean": 0.0815,
+        "std": 0.0105,
+        "samples": 2
+    },
+    "ah": {
+        "mean": 0.1386,
+        "std": 0.0183,
+        "samples": 2
+    },
+    "lm": {
+        "mean": 0.1399,
+        "std": 0.0278,
+        "samples": 4
+    },
+    "spacef": {
+        "mean": 0.0785,
+        "std": 0.0161,
+        "samples": 2
+    },
+    "fa": {
+        "mean": 0.0968,
+        "std": 0.0169,
+        "samples": 2
+    },
+    "ey": {
+        "mean": 0.1381,
+        "std": 0.0342,
+        "samples": 2
+    },
+    "nf": {
+        "mean": 0.1313,
+        "std": 0.011,
+        "samples": 2
+    },
+    "backspace\u0131": {
+        "mean": 0.274,
+        "std": 0.0587,
+        "samples": 3
+    },
+    "\u0131f": {
+        "mean": 0.1239,
+        "std": 0.0321,
+        "samples": 2
+    },
+    "fl": {
+        "mean": 0.1649,
+        "std": 0.0273,
+        "samples": 2
+    },
+    "backspace\u00fc": {
+        "mean": 0.2446,
+        "std": 0.1135,
+        "samples": 3
+    },
+    "shift_rh": {
+        "mean": 0.3693,
+        "std": 0.0297,
+        "samples": 3
+    },
+    "ha": {
+        "mean": 0.0816,
+        "std": 0.0111,
+        "samples": 5
+    },
+    "ro": {
+        "mean": 0.1287,
         "std": 0.0341,
         "samples": 4
     },
     "IA": {
-        "mean": 0.0595,
-        "std": 0.059,
-        "samples": 3
+        "mean": 0.3795,
+        "std": 0.0996,
+        "samples": 2
     },
     "AU": {
-        "mean": -0.0213,
-        "std": 0.0648,
-        "samples": 4
-    },
-    "Key.spacep": {
-        "mean": 0.2325,
-        "std": 0.2582,
-        "samples": 3
-    },
-    "pl": {
-        "mean": -0.0646,
-        "std": 0.0025,
+        "mean": 0.2797,
+        "std": 0.1189,
         "samples": 2
     },
-    "l\u00fc": {
-        "mean": 0.0337,
-        "std": 0.0148,
-        "samples": 5
-    },
-    "nu": {
-        "mean": -0.0293,
-        "std": 0.0153,
-        "samples": 3
-    },
-    "uKey.space": {
-        "mean": -0.0395,
-        "std": 0.0172,
-        "samples": 8
-    },
-    "ta": {
-        "mean": -0.0692,
-        "std": 0.024,
-        "samples": 6
-    },
-    "n\u0131": {
-        "mean": -0.0433,
-        "std": 0.0308,
-        "samples": 6
-    },
-    "\u0131m": {
-        "mean": -0.0447,
-        "std": 0.0205,
-        "samples": 3
-    },
-    "m\u0131": {
-        "mean": -0.0547,
-        "std": 0.0385,
+    "'u": {
+        "mean": 0.3778,
+        "std": 0.0028,
         "samples": 2
-    },
-    "Key.backspacen": {
-        "mean": 0.1066,
-        "std": 0.11,
-        "samples": 4
-    },
-    "ac": {
-        "mean": -0.0695,
-        "std": 0.0077,
-        "samples": 2
-    },
-    "ca": {
-        "mean": -0.1056,
-        "std": 0.0127,
-        "samples": 3
-    },
-    "Key.space\"": {
-        "mean": 0.1543,
-        "std": 0.0838,
-        "samples": 2
-    },
-    "n\"": {
-        "mean": 0.0817,
-        "std": 0.0449,
-        "samples": 2
-    },
-    "\"Key.space": {
-        "mean": -0.0115,
-        "std": 0.0155,
-        "samples": 2
-    },
-    "am": {
-        "mean": -0.0529,
-        "std": 0.0146,
-        "samples": 5
-    },
-    "aKey.backspace": {
-        "mean": 0.6128,
-        "std": 0.1573,
-        "samples": 2
-    },
-    "Key.backspaceKey.ctrl_l": {
-        "mean": -0.7285,
-        "std": 0.5401,
-        "samples": 2
-    },
-    "\u011fe": {
-        "mean": -0.12,
-        "std": 0.0471,
-        "samples": 2
-    },
-    "ei": {
-        "mean": 0.0627,
-        "std": 0.0198,
-        "samples": 2
-    },
-    "\u015ft": {
-        "mean": -0.0142,
-        "std": 0.0662,
-        "samples": 7
-    },
-    "ti": {
-        "mean": -0.0319,
-        "std": 0.0151,
-        "samples": 8
-    },
-    "Key.spaceh": {
-        "mean": 0.1646,
-        "std": 0.003,
-        "samples": 2
-    },
-    "ha": {
-        "mean": -0.1047,
-        "std": 0.0129,
-        "samples": 6
-    },
-    "um": {
-        "mean": 0.2066,
-        "std": 0.2349,
-        "samples": 3
-    },
-    "ea": {
-        "mean": -0.0576,
-        "std": 0.062,
-        "samples": 2
-    },
-    "c\u00fc": {
-        "mean": -0.0743,
-        "std": 0.0154,
-        "samples": 5
-    },
-    "\u00fcc": {
-        "mean": -0.0241,
-        "std": 0.0131,
-        "samples": 6
-    },
-    "id": {
-        "mean": 0.0073,
-        "std": 0.0464,
-        "samples": 3
-    },
-    "nl": {
-        "mean": 0.0524,
-        "std": 0.0317,
-        "samples": 5
-    },
-    "e\u00e7": {
-        "mean": -0.0581,
-        "std": 0.0137,
-        "samples": 2
-    },
-    "ai": {
-        "mean": -0.089,
-        "std": 0.0384,
-        "samples": 2
-    },
-    "kl": {
-        "mean": 0.0508,
-        "std": 0.0108,
-        "samples": 2
-    },
-    "ah": {
-        "mean": -0.0344,
-        "std": 0.0067,
-        "samples": 2
-    },
-    "ye": {
-        "mean": -0.0841,
-        "std": 0.0116,
-        "samples": 5
-    },
-    "Key.spacef": {
-        "mean": -0.037,
-        "std": 0.0133,
-        "samples": 3
-    },
-    "fa": {
-        "mean": -0.1148,
-        "std": 0.0042,
-        "samples": 2
-    },
-    "ey": {
-        "mean": -0.0504,
-        "std": 0.0171,
-        "samples": 2
-    },
-    ".Key.backspace": {
-        "mean": 0.3289,
-        "std": 0.0707,
-        "samples": 2
-    },
-    "Key.backspacer": {
-        "mean": 0.0101,
-        "std": 0.0039,
-        "samples": 2
-    },
-    "Key.spaceKey.shift_r": {
-        "mean": 0.0631,
-        "std": 0.0999,
-        "samples": 24
-    },
-    "Key.shift_r\u00fc": {
-        "mean": 0.0923,
-        "std": 0.0308,
-        "samples": 9
-    },
-    "Key.backspacee": {
-        "mean": -0.0043,
-        "std": 0.0391,
-        "samples": 3
-    },
-    "\u0131f": {
-        "mean": -0.0395,
-        "std": 0.0174,
-        "samples": 2
-    },
-    "fl": {
-        "mean": 0.0038,
-        "std": 0.015,
-        "samples": 2
-    },
-    "ay": {
-        "mean": -0.0726,
-        "std": 0.0171,
-        "samples": 2
-    },
-    "Key.spacei": {
-        "mean": -0.06,
-        "std": 0.0084,
-        "samples": 3
-    },
-    "sKey.backspace": {
-        "mean": 0.4742,
-        "std": 0.4703,
-        "samples": 2
-    },
-    "Key.shift_ra": {
-        "mean": 0.1399,
-        "std": 0.0197,
-        "samples": 2
-    },
-    "Key.shift_ry": {
-        "mean": 0.1335,
-        "std": 0.1242,
-        "samples": 2
-    },
-    "Key.spaceC": {
-        "mean": 0.1588,
-        "std": 0.0654,
-        "samples": 2
-    },
-    "CKey.shift_r": {
-        "mean": -0.3148,
-        "std": 0.1248,
-        "samples": 2
-    },
-    "Key.shift_rh": {
-        "mean": 0.1245,
-        "std": 0.0261,
-        "samples": 4
-    },
-    "n'": {
-        "mean": 0.3236,
-        "std": 0.0863,
-        "samples": 2
-    },
-    "'Key.shift_r": {
-        "mean": -0.5873,
-        "std": 0.3615,
-        "samples": 7
-    },
-    "Key.shift_ru": {
-        "mean": 0.2479,
-        "std": 0.066,
-        "samples": 3
     },
     "un": {
-        "mean": -0.0183,
-        "std": 0.0784,
-        "samples": 7
+        "mean": 0.138,
+        "std": 0.037,
+        "samples": 6
     },
-    "ok": {
-        "mean": -0.0952,
-        "std": 0.0128,
-        "samples": 5
-    },
-    "ik": {
-        "mean": 0.0796,
-        "std": 0.0061,
-        "samples": 2
-    },
-    "r\u00e7": {
-        "mean": 0.0102,
-        "std": 0.0778,
-        "samples": 2
-    },
-    "ld": {
-        "mean": -0.052,
-        "std": 0.013,
-        "samples": 4
-    },
-    "u\u011f": {
-        "mean": -0.0421,
-        "std": 0.0816,
-        "samples": 4
-    },
-    "\u00fcz": {
-        "mean": -0.013,
-        "std": 0.0221,
-        "samples": 2
-    },
-    "lm": {
-        "mean": -0.0322,
-        "std": 0.0094,
-        "samples": 3
-    },
-    "U'": {
-        "mean": 0.2406,
-        "std": 0.0214,
-        "samples": 2
-    },
-    "Key.shift_rKey.backspace": {
-        "mean": 0.3532,
-        "std": 0.1332,
-        "samples": 5
-    },
-    "Key.backspaceKey.shift_r": {
-        "mean": 0.1294,
-        "std": 0.0875,
-        "samples": 7
-    },
-    "\u015fl": {
-        "mean": 0.0469,
-        "std": 0.0172,
-        "samples": 2
-    },
-    "az": {
-        "mean": 0.0407,
-        "std": 0.0072,
-        "samples": 2
-    },
-    "\u0131l": {
-        "mean": 0.0632,
-        "std": 0.0154,
-        "samples": 7
-    },
-    "t\u0131": {
-        "mean": -0.0512,
+    "spacem": {
+        "mean": 0.0774,
         "std": 0.0003,
         "samples": 2
     },
-    "Key.shift_rl": {
-        "mean": 0.0935,
-        "std": 0.0037,
-        "samples": 3
+    "yo": {
+        "mean": 0.0732,
+        "std": 0.0021,
+        "samples": 2
     },
-    "y\u0131": {
-        "mean": -0.0638,
-        "std": 0.0189,
-        "samples": 5
+    "ok": {
+        "mean": 0.0945,
+        "std": 0.0137,
+        "samples": 4
     },
-    "l\u0131": {
-        "mean": 0.0872,
-        "std": 0.0882,
-        "samples": 7
+    "ik": {
+        "mean": 0.2196,
+        "std": 0.0091,
+        "samples": 2
     },
-    "\u015ff": {
-        "mean": -0.0291,
+    "r\u00e7": {
+        "mean": 0.1213,
         "std": 0.0056,
         "samples": 2
     },
-    "ed": {
-        "mean": 0.0242,
-        "std": 0.0408,
+    "ld": {
+        "mean": 0.0562,
+        "std": 0.014,
         "samples": 3
     },
-    "Key.shift_ri": {
+    "u\u011f": {
         "mean": 0.0878,
-        "std": 0.0227,
-        "samples": 5
+        "std": 0.0134,
+        "samples": 3
     },
-    "Key.shift_rn": {
-        "mean": 0.0866,
-        "std": 0.0232,
+    "\u00fcz": {
+        "mean": 0.1248,
+        "std": 0.0282,
         "samples": 2
     },
-    "uz": {
-        "mean": -0.044,
-        "std": 0.0449,
+    "\u015fl": {
+        "mean": 0.2065,
+        "std": 0.011,
+        "samples": 2
+    },
+    "az": {
+        "mean": 0.213,
+        "std": 0.0118,
+        "samples": 2
+    },
+    "nu": {
+        "mean": 0.1223,
+        "std": 0.0145,
+        "samples": 2
+    },
+    "shift_rl": {
+        "mean": 0.4965,
+        "std": 0.0423,
         "samples": 3
+    },
+    "\u015ff": {
+        "mean": 0.1286,
+        "std": 0.0242,
+        "samples": 2
+    },
+    "y\u0131": {
+        "mean": 0.1859,
+        "std": 0.1464,
+        "samples": 4
+    },
+    "shift_rn": {
+        "mean": 0.4177,
+        "std": 0.0975,
+        "samples": 2
     },
     "nc": {
-        "mean": 0.003,
-        "std": 0.0693,
-        "samples": 3
+        "mean": 0.2137,
+        "std": 0.0337,
+        "samples": 2
     },
     "None.": {
-        "mean": 0.3854,
-        "std": 0.1664,
+        "mean": 0.3687,
+        "std": 0.0155,
         "samples": 2
     },
     "zy": {
-        "mean": 0.106,
-        "std": 0.0077,
+        "mean": 0.2427,
+        "std": 0.0289,
+        "samples": 3
+    },
+    "yz": {
+        "mean": 0.2897,
+        "std": 0.0315,
         "samples": 2
     },
-    "a\u015f": {
-        "mean": -0.1108,
-        "std": 0.0235,
-        "samples": 2
-    },
-    "be": {
-        "mean": -0.0388,
-        "std": 0.0664,
+    "ubackspace": {
+        "mean": 0.2637,
+        "std": 0.0471,
         "samples": 2
     },
     "\u00e7o": {
-        "mean": 0.057,
-        "std": 0.0035,
-        "samples": 3
-    },
-    "Key.backspaceu": {
-        "mean": 0.0914,
-        "std": 0.006,
-        "samples": 2
-    },
-    "Key.backspacei": {
-        "mean": 0.3038,
-        "std": 0.2264,
-        "samples": 3
-    },
-    "\u00fck": {
-        "mean": 0.074,
-        "std": 0.0702,
-        "samples": 4
-    },
-    "lKey.backspace": {
-        "mean": 0.114,
-        "std": 0.0221,
-        "samples": 2
-    },
-    "\u00e7\u00fc": {
-        "mean": -0.0462,
-        "std": 0.0402,
-        "samples": 3
-    },
-    "Key.shift_re": {
-        "mean": 0.1978,
-        "std": 0.0961,
-        "samples": 2
-    },
-    "Key.shift_rt": {
-        "mean": 0.3884,
-        "std": 0.1724,
-        "samples": 2
-    },
-    "Key.backspace\u015f": {
-        "mean": 0.2612,
-        "std": 0.1754,
-        "samples": 2
-    },
-    "\u015fKey.shift_r": {
-        "mean": 0.1121,
-        "std": 0.0241,
-        "samples": 3
-    },
-    "\u00fc\u00e7": {
-        "mean": -0.0726,
-        "std": 0.0316,
-        "samples": 2
-    },
-    "Key.shift_rKey.enter": {
-        "mean": 0.1279,
-        "std": 0.04,
-        "samples": 2
-    },
-    "e\u011f": {
-        "mean": -0.1054,
-        "std": 0.001,
-        "samples": 2
-    },
-    "za": {
-        "mean": -0.1318,
-        "std": 0.0171,
-        "samples": 2
-    },
-    "\u0131\u011f": {
-        "mean": 0.072,
-        "std": 0.0048,
-        "samples": 2
-    },
-    "\u011f\u0131": {
-        "mean": 0.0751,
-        "std": 0.0218,
-        "samples": 2
-    },
-    "ru": {
-        "mean": -0.0582,
-        "std": 0.0132,
+        "mean": 0.2456,
+        "std": 0.0446,
         "samples": 2
     }
 }

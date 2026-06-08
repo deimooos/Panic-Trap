@@ -35,13 +35,13 @@ class RiskManager:
         self.check_thresholds()
 
     def evaluate_bi_gram(self, bi_gram, flight_time):
-        # True biometric rhythm happens under 400ms.
         if flight_time > 0.4:
+            self._update_risk(0.5)
             return
 
         # Neutral stance on newly introduced words
         if bi_gram not in self.profile:
-            self._update_risk(0.1)
+            self._update_risk(0.2)
             return
 
         stats = self.profile[bi_gram]
@@ -53,12 +53,12 @@ class RiskManager:
 
         deviation = abs(flight_time - mean)
 
-        if deviation <= (2.5 * effective_std):
-            self._update_risk(-1.5)
+        if deviation <= (2.0 * effective_std):
+            self._update_risk(-1.0)
         else:
-            penalty = (deviation / effective_std) * 0.3
+            penalty = (deviation / effective_std) * 0.5
 
-            max_penalty = 2.5
+            max_penalty = 3.0
             if penalty > max_penalty:
                 penalty = max_penalty
 

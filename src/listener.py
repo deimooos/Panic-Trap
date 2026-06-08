@@ -6,41 +6,46 @@ from pynput import keyboard
 
 class KeystrokeLogger:
     def __init__(self):
-        self.key_press_times = {}
         self.typing_data = []
-        self.last_release_time = None
+        self.last_press_time = None
         self.log_dir = "../logs"
+        self.active_keys = set()  # To prevent Windows held-key auto-repeat spam
 
     def on_press(self, key):
         try:
             char = key.char
         except AttributeError:
-            char = str(key)
+            char = str(key).replace('Key.', '')
 
-        self.key_press_times[char] = time.time()
+        # Ignore if key is being held down (auto-repeat)
+        if char in self.active_keys:
+            return
+
+        self.active_keys.add(char)
+        current_time = time.time()
+
+        # Calculate chronological Press-to-Press (P2P) flight time
+        flight_time = 0.0
+        if self.last_press_time is not None:
+            flight_time = current_time - self.last_press_time
+
+        self.last_press_time = current_time
+
+        # Append exactly when pressed to preserve TRUE chronological typing order!
+        self.typing_data.append({
+            'key': char,
+            'flight_time': round(flight_time, 4)
+        })
 
     def on_release(self, key):
         try:
             char = key.char
         except AttributeError:
-            char = str(key)
+            char = str(key).replace('Key.', '')
 
-        if char in self.key_press_times:
-            press_time = self.key_press_times.pop(char)
-            release_time = time.time()
-            dwell_time = release_time - press_time
-
-            flight_time = 0
-            if self.last_release_time:
-                flight_time = press_time - self.last_release_time
-
-            self.last_release_time = release_time
-
-            self.typing_data.append({
-                'key': char,
-                'dwell_time': round(dwell_time, 4),
-                'flight_time': round(flight_time, 4)
-            })
+        # Remove key from active list when actually released
+        if char in self.active_keys:
+            self.active_keys.remove(char)
 
         if key == keyboard.Key.esc:
             print("\n[!] ESC pressed. Saving data and stopping listener...")
