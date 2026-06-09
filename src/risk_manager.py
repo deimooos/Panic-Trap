@@ -54,7 +54,7 @@ class RiskManager:
         deviation = abs(flight_time - mean)
 
         if deviation <= (1.5 * effective_std):
-            self._update_risk(-1.0)
+            self._update_risk(-0.5)
         else:
             penalty = (deviation / effective_std) * 0.5
 
@@ -65,7 +65,6 @@ class RiskManager:
             self._update_risk(penalty)
 
     def check_thresholds(self):
-        # 75 and 90 thresholds are handled dynamically in main.py
         # Here we only trigger the silent background recon at 50
         if self.current_risk >= 50:
             print("[!] RISK > 50: SUSPICIOUS ACTIVITY. SILENT RECON STARTED.")

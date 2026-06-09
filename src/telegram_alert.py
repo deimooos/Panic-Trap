@@ -53,7 +53,6 @@ class TelegramAlert:
             return False
 
 
-# Quick test execution
 if __name__ == "__main__":
     print("[*] Testing Telegram API connection...")
     bot = TelegramAlert()

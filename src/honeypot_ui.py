@@ -1,5 +1,4 @@
 import os
-import sys
 
 # venv Tkinter Bug Fix
 os.environ['TCL_LIBRARY'] = r"C:\Users\deimos\AppData\Local\Programs\Python\Python313\tcl\tcl8.6"

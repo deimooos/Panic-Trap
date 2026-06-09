@@ -47,7 +47,6 @@ class NGramModel:
                 mean_time = np.mean(times)
                 std_dev = np.std(times)
 
-                # Smoothing: if std_dev is exactly 0, it will cause division by zero later
                 # Just give it a tiny tolerance hack
                 if std_dev == 0.0:
                     std_dev = 0.01
