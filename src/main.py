@@ -11,6 +11,7 @@ last_key_time = None
 last_key = None
 honeypot_triggered = False
 nuke_triggered = False
+honeypot_already_seen = False
 
 # Initialize core modules
 risk_engine = RiskManager()
@@ -19,10 +20,13 @@ nuke = LockdownManager()
 
 
 def on_press(key):
-    global last_key_time, last_key, honeypot_triggered, nuke_triggered
+    global last_key_time, last_key, honeypot_triggered, nuke_triggered, honeypot_already_seen
 
     # Stop processing keystrokes if the system is already nuked
-    if honeypot_triggered or nuke_triggered:
+    if nuke_triggered:
+        return
+
+    if honeypot_triggered:
         return
 
     try:
@@ -53,8 +57,9 @@ def on_press(key):
                 nuke.trigger_nuke()
 
             # Check State Machine for 75 Threshold (Honeypot)
-            elif risk_engine.current_risk >= 75 and not honeypot_triggered:
+            elif risk_engine.current_risk >= 75 and not honeypot_already_seen:
                 honeypot_triggered = True
+                honeypot_already_seen = True
                 msg = "⚠️ *WARNING* ⚠️\nRisk > 75! Suspicious typing detected. Honeypot UI deployed."
                 telegram.send_alert(msg)
 
@@ -85,20 +90,20 @@ if __name__ == "__main__":
     listener = threading.Thread(target=keyboard_listener_thread, daemon=True)
     listener.start()
 
-    # The Main Thread must be kept free to run the CustomTkinter GUI safely
     try:
         while True:
-            if honeypot_triggered:
+            # Main thread only cares about deploying UI when triggered
+            if honeypot_triggered and not nuke_triggered:
                 print("[!!!] Deploying Honeypot Interface in Main Thread...")
-                app = HoneypotUI()
-                app.mainloop()  # This will block the main thread until closed via ESC
 
-                # If developer exits honeypot via ESC, reset triggers to allow testing again
+                app = HoneypotUI()
+                app.mainloop()
+
+                # Once closed via ESC, reactivate the listener
                 honeypot_triggered = False
                 print("\n[*] Developer exit triggered. Closing honeypot.")
                 print(f"[*] Resuming monitoring. Current Risk Score: {round(risk_engine.current_risk, 1)}")
 
-            # Small sleep to prevent the infinite while-loop from eating 100% CPU
             time.sleep(0.5)
 
     except KeyboardInterrupt:

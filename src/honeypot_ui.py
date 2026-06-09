@@ -63,7 +63,11 @@ class HoneypotUI(ctk.CTk):
 
     def dev_exit(self, event=None):
         print("[*] Developer exit triggered. Closing honeypot.")
+        self.close_honeypot()
+
+    def close_honeypot(self):
         self.destroy()
+        self.update_idletasks()
 
     def log_panic_attempt(self, event=None):
         attempt = self.pin_entry.get()
